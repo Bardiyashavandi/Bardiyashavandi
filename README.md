@@ -32,6 +32,7 @@ Applying to MS programs in AI/ML for Fall 2027.
 | 🏠 [US Real Estate Analysis](https://github.com/Bardiyashavandi/Housing-Prices-Economic-Indicators-in-the-U.S.) | EDA on macro indicators (inflation, interest rates) driving housing prices. ML trend prediction. | Python · Scikit-learn · Jupyter |
 | 🛒 [E-Commerce Platform](https://github.com/Theparsaw/Full-Stack-E-Commerce-Web-Application) | Full-stack with Vue.js, Node.js/Express, MongoDB Atlas. JWT auth, cart, order tracking, admin panel. | Vue.js · Node.js · MongoDB |
 | 🏦 [Bank Management DB](https://github.com/Bardiyashavandi/Bank-Management-Database-System) | Normalized relational DB with ER model, 15+ SQL queries, triggers, stored procedures + PHP web UI. | MySQL · PHP · MongoDB |
+| 🎮 [FPGA Mastermind Game](https://github.com/Bardiyashavandi/Digital-Logic-Game-Verilog) | Verilog implementation of Mastermind using FSM control logic, debounced input, SSD & LED output. Simulated and deployed on FPGA. | Verilog · FPGA |
 | 🔢 [Subset Sum Algorithms](https://github.com/Bardiyashavandi/Subset-Sum-Algorithms) | Brute Force vs FPTAS analysis. Formally proved complexity, validated across 320 test instances. | Python · Jupyter |
 
 ---
@@ -57,18 +58,3 @@ Relevant coursework: Machine Learning · Database Systems · Data Science · Alg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiyashavandi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bardiya.shavandi@sabanciuniv.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bardiyashavandi)
-
-<!--
-**Bardiyashavandi/Bardiyashavandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
