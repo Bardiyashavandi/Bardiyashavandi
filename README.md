@@ -20,7 +20,6 @@ CS & AI student at **Sabancı University** · Istanbul · Building things in ML,
 
 3rd-year CS & Engineering student at Sabancı University (GPA 3.68/4.0 · Dean's List 5× High Honor).  
 Focused on ML, NLP, and deep learning — currently exploring LLMs and agentic AI.  
-Applying to MS programs in AI/ML for Fall 2027.
 
 ---
 
