@@ -1,5 +1,4 @@
 # Hi, I'm Bardiya 👋
-
 CS & AI student at **Sabancı University** · Istanbul · Building things in ML, NLP, and data systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,8 +16,7 @@ CS & AI student at **Sabancı University** · Istanbul · Building things in ML,
 ---
 
 ## About
-
-3rd-year CS & Engineering student at Sabancı University (GPA 3.68/4.0 · Dean's List 5× High Honor).  
+4th-year CS & Engineering student at Sabancı University (GPA 3.68/4.0 · Dean's List 5× High Honor).  
 Focused on ML, NLP, and deep learning — currently exploring LLMs and agentic AI.  
 
 ---
@@ -27,6 +25,8 @@ Focused on ML, NLP, and deep learning — currently exploring LLMs and agentic A
 
 | Project | Description | Stack |
 |---|---|---|
+| 📈 [X Hype Finder](https://github.com/Bardiyashavandi/x-hype-finder) | AI-assisted hype detection for X: tracks any topic, filters bots, and detects genuine activity spikes with a ranked, evidence-backed digest. Deterministic pipeline (bot/spike detection, clustering) kept separate from an LLM judgment layer; React/FastAPI dashboard with multi-user auth and a human-in-the-loop eval system. | Python · Claude API · FastAPI · React · SQLAlchemy |
+| 🔍 [AI Code Review Agent](https://github.com/Bardiyashavandi/code_review_agent) | LLM-powered code review system: fetches GitHub repos, runs Semgrep static analysis and CVE scanning, and uses Gemini to generate prioritized, evidence-backed security reviews (no hallucinated findings). 37-agent multi-layer architecture with RAG-grounded reviews and persistent findings memory across runs. | Python · Google ADK · Gemini · Semgrep · FastAPI |
 | 🏆 [World Cup 2026 Predictor](https://github.com/Bardiyashavandi/World-Cup-2026-Predictor) | Dixon-Coles + XGBoost + Bayesian updating. SHAP explainability, backtesting, Streamlit dashboard. | Python · XGBoost · Streamlit |
 | 🏠 [US Real Estate Analysis](https://github.com/Bardiyashavandi/Housing-Prices-Economic-Indicators-in-the-U.S.) | EDA on macro indicators (inflation, interest rates) driving housing prices. ML trend prediction. | Python · Scikit-learn · Jupyter |
 | 🛒 [E-Commerce Platform](https://github.com/Theparsaw/Full-Stack-E-Commerce-Web-Application) | Full-stack with Vue.js, Node.js/Express, MongoDB Atlas. JWT auth, cart, order tracking, admin panel. | Vue.js · Node.js · MongoDB |
@@ -37,23 +37,13 @@ Focused on ML, NLP, and deep learning — currently exploring LLMs and agentic A
 ---
 
 ## Education
-
 **Sabancı University** — B.Sc. Computer Science & Engineering (2023 – 2027)  
-GPA: 3.68/4.0 · Dean's List: High Honor (5 semesters), Honor (1 semester)
-
+GPA: 3.68/4.0 · Dean's List: High Honor (5 semesters), Honor (1 semester)  
 Relevant coursework: Machine Learning · Database Systems · Data Science · Algorithms · Software Engineering · Statistical Modelling · Linear Algebra
 
 ---
 
-## Certifications
-
-- 📜 Artificial Intelligence A-Z 2026: Agentic AI, Gen AI & RL — Udemy (2025)
-- 📜 Python for Data Science and Machine Learning Bootcamp — Udemy (2025)
-
----
-
 ## Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bardiyashavandi/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bardiya.shavandi@sabanciuniv.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bardiyashavandi)
